@@ -76,7 +76,7 @@ p {
 }
 
 .card .back {
-  background-image: url("/assets/kenny-eliason-OjxsirfohHU-unsplash.jpg");
+  background-image: url("assets/kenny-eliason-OjxsirfohHU-unsplash.jpg");
   background-position: center center;
   background-size: cover;
   backface-visibility: hidden;
