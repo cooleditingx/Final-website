@@ -8,19 +8,19 @@
         "name": "penumbral-lunar"
     },
     {
-        "image": "/assets/1828809F-899C-4F5D-9B3A-F7ABAAB78471.PNG",
+        "image": "assets/1828809F-899C-4F5D-9B3A-F7ABAAB78471.PNG",
         "name": "partial-lunar"
     },
     {
-        "image": "/assets/5195ABF3-F491-4DEB-9E42-BA938E856045.PNG",
+        "image": "assets/5195ABF3-F491-4DEB-9E42-BA938E856045.PNG",
         "name": "total-solar"
     },
     {
-        "image": "/assets/509D8299-F2EE-4AC4-906A-49067D588F49.PNG",
+        "image": "assets/509D8299-F2EE-4AC4-906A-49067D588F49.PNG",
         "name": "total-lunar"
     },
     {
-        "image": "/assets/Untitled-design.png",
+        "image": "assets/Untitled-design.png",
         "name": "partial-solar"
     }
 ]
