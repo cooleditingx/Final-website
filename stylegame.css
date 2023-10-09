@@ -11,6 +11,10 @@ h1 {
     text-align: center;
     font-weight: 700;
     font-size: 50px;
+    position: absolute;
+    top: 15%;
+    width: 100vw;
+    margin: auto;
 }
 
 p {
@@ -22,6 +26,10 @@ p {
 .actions {
     display: flex;
     justify-content: center;
+    position: absolute;
+    top: 90%;
+    width: 100vw;
+    margin: auto;
 }
 
 .actions button {
@@ -38,6 +46,10 @@ p {
   grid-gap: 16px;
   grid-template-columns: repeat(4, 140px);
   grid-template-rows: repeat(2, calc(140px / 2 * 2));
+  position: absolute;
+  top: 25%;
+  width: 100%
+  margin: auto;
 }
 
 .card {
