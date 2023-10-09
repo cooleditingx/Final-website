@@ -70,11 +70,11 @@ p {
 }
 img {
     margin: auto;
-    width: 80%;
-    left: 150px;
-    position: absolute;
+    width: 90%;
+    /* left: 150px;
+    position: absolute; */
 }
-.wrong {
+/* .wrong {
     top: 400vh;
     position: absolute;
-}
+} */
